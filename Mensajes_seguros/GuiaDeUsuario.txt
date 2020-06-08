@@ -1,5 +1,6 @@
 El programa brinda una manera de encriptar mensajes con el uso de algoritmos de encriptación asimétricos(https://es.wikipedia.org/wiki/Criptograf%C3%ADa_asim%C3%A9trica).
-El usuario puede crear una llave privada, con la que se creará una llave pública. La llave pública puede distribuirla a quien quiera, para que puedan cifrar mensajes con ella. El único capaz de descifrar estos mensajes, será quien tenga la llave privada.
+El usuario puede crear una llave privada, con la que se creará una llave pública. La llave pública puede distribuirla a quien quiera, para que puedan cifrar mensajes con ella. 
+El único capaz de descifrar estos mensajes, será quien tenga la llave privada.
 
 El usuario también podrá cargar una llave privada, previamente creada. Esto permite descifrar mensajes que se hayan guardado previamente con la llave pública de esa llave privada.
 
